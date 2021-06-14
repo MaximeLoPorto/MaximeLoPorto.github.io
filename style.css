@@ -1,0 +1,14 @@
+h1{
+font-size: 45px;
+text-align: center;
+color: #FF9696
+}
+
+body{
+font-size: 22px;
+font-weight: bolder;
+font-family: Helvetica, sans-serif;
+color: #242424;
+text-align: center;
+background-image: url("images/subtle_white_feathers.png");
+}
